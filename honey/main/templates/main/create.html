@@ -1,0 +1,17 @@
+{% extends 'main/base.html' %}
+
+{% block title %}
+Create The Task
+{%endblock %}
+
+{% block content %}
+   <h1>Create Page</h1>
+    <form method="post">
+        {% csrf_token %}
+        {{ form.title }}
+        {{ form.task }}
+        <input type="text" placeholder="Write the name" class="form-control"><br>
+        <textarea placeholder="Write the description" class="form-control"></textarea><br>
+        <button type="submit" class="btn btn-success">Add</button>
+    </form>
+{% endblock %}
