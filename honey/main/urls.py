@@ -8,4 +8,5 @@ urlpatterns = [
     path('kpop', views.kpop),
     path('anime', views.anime),
     path('create', views.create, name='create'),
+    path('aiu', views.aiu, name='aiu'),
 ]
