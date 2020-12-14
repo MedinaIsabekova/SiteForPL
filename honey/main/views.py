@@ -25,3 +25,7 @@ def create(request):
         'form': form
     }
     return render(request, 'main/create.html')
+
+
+def aiu(request):
+    return render(request, 'main/aiu.html')
