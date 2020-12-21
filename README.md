@@ -1,7 +1,9 @@
 # SiteForPL
-PL Final Project 
+PL Final Project
+
 Contributors:
-<p><a href= "https://github.com/MedinaIsabekova" </a></p>
+Aida Osmonova 
+Medina Isabek k
 
 USAGE !
 
