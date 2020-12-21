@@ -18,12 +18,9 @@ This site is dedicated to ANIME and K-POP lovers. Hope you enjoy it.
 
 
 4. Else, there are attached hyperlinks. If you read the title and click on a link, you will jump to another site related to the topic.
-![Снимок экрана (105)](https://user-images.githubusercontent.com/73512902/102732899-0dab7e00-4366-11eb-9ab5-9dd9cfb4897d.png)
-![Снимок экрана (106)](https://user-images.githubusercontent.com/73512902/102732917-18661300-4366-11eb-9155-5f6e8b5e5b97.png)
-![Снимок экрана (107)](https://user-images.githubusercontent.com/73512902/102732930-21ef7b00-4366-11eb-90f2-9e8e49bb90e5.png)
-![Снимок экрана (108)](https://user-images.githubusercontent.com/73512902/102732931-22881180-4366-11eb-839b-565a03439161.png)
-![Снимок экрана (109)](https://user-images.githubusercontent.com/73512902/102732938-26b42f00-4366-11eb-9366-ee941c32b8d0.png)
-![Снимок экрана (110)](https://user-images.githubusercontent.com/73512902/102732947-2caa1000-4366-11eb-9593-8986372d62f8.png)
+![Снимок экрана (105)](https://user-images.githubusercontent.com/73512902/102732899-0dab7e00-4366-11eb-9ab5-9dd9cfb4897d.png)![Снимок экрана (106)](https://user-images.githubusercontent.com/73512902/102732917-18661300-4366-11eb-9155-5f6e8b5e5b97.png)
+![Снимок экрана (107)](https://user-images.githubusercontent.com/73512902/102732930-21ef7b00-4366-11eb-90f2-9e8e49bb90e5.png)![Снимок экрана (108)](https://user-images.githubusercontent.com/73512902/102732931-22881180-4366-11eb-839b-565a03439161.png)
+![Снимок экрана (109)](https://user-images.githubusercontent.com/73512902/102732938-26b42f00-4366-11eb-9366-ee941c32b8d0.png)![Снимок экрана (110)](https://user-images.githubusercontent.com/73512902/102732947-2caa1000-4366-11eb-9593-8986372d62f8.png)
 
 
 5. In order to go back to the main page, you should click on the "Main Page" which is located on the left top of the window.
@@ -44,8 +41,6 @@ If you click on "About" button, you will go to another page. In the title there 
 
 
 9. On the other hand, if you chose "University page" you will go to the page dedicated to our university and all contacts of it. Else, there are links on the right side to our GitHub accounts.
-![Снимок экрана (123)](https://user-images.githubusercontent.com/73512902/102734243-8eb84480-4369-11eb-8ede-b100e3243c64.png)
-![Снимок экрана (125)](https://user-images.githubusercontent.com/73512902/102734477-17cf7b80-436a-11eb-95f6-b307ce3185a1.png)
-![Снимок экрана (130)](https://user-images.githubusercontent.com/73512902/102734480-1aca6c00-436a-11eb-8e23-8cb703e4ed12.png)
-![sjs](https://user-images.githubusercontent.com/73512902/102734702-ae03a180-436a-11eb-8478-06b530cec380.png)
+![Снимок экрана (123)](https://user-images.githubusercontent.com/73512902/102734243-8eb84480-4369-11eb-8ede-b100e3243c64.png)![Снимок экрана (125)](https://user-images.githubusercontent.com/73512902/102734477-17cf7b80-436a-11eb-95f6-b307ce3185a1.png)
+![Снимок экрана (130)](https://user-images.githubusercontent.com/73512902/102734480-1aca6c00-436a-11eb-8e23-8cb703e4ed12.png)![sjs](https://user-images.githubusercontent.com/73512902/102734702-ae03a180-436a-11eb-8478-06b530cec380.png)
 
