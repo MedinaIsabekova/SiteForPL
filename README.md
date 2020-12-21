@@ -58,7 +58,9 @@ If you click on "About" button, you will go to another page. In the title there 
 ![Снимок экрана (123)](https://user-images.githubusercontent.com/73512902/102734243-8eb84480-4369-11eb-8ede-b100e3243c64.png) ![Снимок экрана (125)](https://user-images.githubusercontent.com/73512902/102734477-17cf7b80-436a-11eb-95f6-b307ce3185a1.png)
 Medina Isabek k's GitHub
 
-![Снимок экрана (130)](https://user-images.githubusercontent.com/73512902/102734480-1aca6c00-436a-11eb-8e23-8cb703e4ed12.png) ![sjs](https://user-images.githubusercontent.com/73512902/102734702-ae03a180-436a-11eb-8478-06b530cec380.png)
 
 Aida Osmonova's GitHub
+
+![Снимок экрана (130)](https://user-images.githubusercontent.com/73512902/102734480-1aca6c00-436a-11eb-8e23-8cb703e4ed12.png) ![sjs](https://user-images.githubusercontent.com/73512902/102734702-ae03a180-436a-11eb-8478-06b530cec380.png)
+
 
