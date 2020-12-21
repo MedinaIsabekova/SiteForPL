@@ -1,6 +1,7 @@
 # SiteForPL
 PL Final Project 
-Contributors
+Contributors:
+<p><a href= "https://github.com/MedinaIsabekova" </a></p>
 
 USAGE !
 
