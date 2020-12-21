@@ -27,8 +27,9 @@ This site is dedicated to ANIME and K-POP lovers. Hope you enjoy it.
 ![Снимок экрана (120)](https://user-images.githubusercontent.com/73512902/102733792-6419bc00-4368-11eb-937b-412eb5d824bc.png)
 If you click on "About" button, you will go to another page. In the title there is written about this page.
 ![Снимок экрана (121)](https://user-images.githubusercontent.com/73512902/102733802-6a0f9d00-4368-11eb-98a8-178feff61399.png)
-9. On the other hand, if you chose "University page" you will go to the page dedicated to our university and all contacts of it. Else, there are links to our GitHub accounts.
+9. On the other hand, if you chose "University page" you will go to the page dedicated to our university and all contacts of it. Else, there are links on the right side to our GitHub accounts.
 ![Снимок экрана (123)](https://user-images.githubusercontent.com/73512902/102734243-8eb84480-4369-11eb-8ede-b100e3243c64.png)
 ![Снимок экрана (125)](https://user-images.githubusercontent.com/73512902/102734477-17cf7b80-436a-11eb-95f6-b307ce3185a1.png)
 ![Снимок экрана (130)](https://user-images.githubusercontent.com/73512902/102734480-1aca6c00-436a-11eb-8e23-8cb703e4ed12.png)
+![sjs](https://user-images.githubusercontent.com/73512902/102734702-ae03a180-436a-11eb-8478-06b530cec380.png)
 
