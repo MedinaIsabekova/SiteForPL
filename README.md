@@ -53,7 +53,7 @@ This site is dedicated to ANIME and K-POP lovers. Hope you enjoy it.
 ![Снимок экрана (120)](https://user-images.githubusercontent.com/73512902/102733792-6419bc00-4368-11eb-937b-412eb5d824bc.png)
 
 
-If you click on "About" button, you will go to another page. In the title there is written about this page.
+If you click on "About" button, you will go to another page. In this Page, we put database from admin panel Django. We can requlate,add and delete tasks. In the title there is written about this page.
 
 ![Снимок экрана (121)](https://user-images.githubusercontent.com/73512902/102733802-6a0f9d00-4368-11eb-98a8-178feff61399.png)
 
